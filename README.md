@@ -83,5 +83,3 @@ json-server --watch server/db.json
 To test server: Open http://localhost:3000/payments in browser
 
 
-
-- **Demo Video:** https://drive.google.com/file/d/1Uy4-ADRGIOup2Y-alH0oFKNZ2pIMCYup/view?usp=sharing 
